@@ -4,6 +4,7 @@ Some notes and resources
 
 ## Links
 
+- [Git reference](https://jrebel.com/wp-content/uploads/2016/02/Git-Cheat-Sheet-pdf-v2.png)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Atom Editor](https://atom.io/)
 
