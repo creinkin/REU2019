@@ -2,6 +2,9 @@
 
 Some notes and resources
 
+- creinkin
+- snjoroge
+
 ## Links
 
 - [Git reference](https://jrebel.com/wp-content/uploads/2016/02/Git-Cheat-Sheet-pdf-v2.png)
