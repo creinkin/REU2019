@@ -8,6 +8,37 @@ Some notes and resources
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Atom Editor](https://atom.io/)
 
+## Git commands
+
+```sh
+# Clone (i.e. copy the repository).
+git clone https://github.com/creinkin/REU2019
+
+# If required, adding your username for commit purposes.
+git config user.name "your username"
+
+# If required, adding your email for commit purposes.
+git config user.email "Your email"
+
+# Adding all edited files.
+git add .
+
+# Adding a single file.
+git add filename
+
+# Commit "added files".
+git commit -m "Commit message."
+
+# Sync your code with github.com for any new changes.
+git pull
+
+# Publish your new code to github for the first time.
+git push origin master
+
+# Publish your code subsequent times.
+git push
+```
+
 ## vim commands to get by
 
 ### open new file or edit file.
